@@ -53,15 +53,17 @@
       Sistema desktop ou Web (cliente-servidor) que gerencia a compra-venda (desktop e Web) 
       de jogos eletrônicos, bem como, o inventário de jogos de um cliente 
       (carteira de jogos - desktop e Web) e a possibilidade jogar pelo cliente (desktop).
+
+    /*O sistema gerencia a compra e venda de jogos eletrônicos, o inventário de jogos do cliente e 
+    permite jogar na versão desktop, funcionando tanto no desktop quanto na web (cliente-servidor).*/
     
     
     2) qual tipo de sistema?   
       Sistema de Informação Gerencial: jogadores, jogos, compra-venda, mantém inventário.
       Sistema de Apoio à Decisão: reconhece padrões de comportamento de jogos versus jogadores,
-                                  estilo de jogo versus jogadores, etc.
+        estilo de jogo versus jogadores, etc.
 
+    /*O sistema é um Sistema de Informação Gerencial (SIG), pois gerencia jogadores, 
+    jogos, compra e venda, além de manter o inventário de jogos dos clientes.*/
 
-
-# CURIOSIDADE DA COMPUTAÇÃO:
-  - Todo o sistema que é gratuíto, o produto é o cliente.
 
