@@ -1,7 +1,5 @@
 # COMANDOS GIT PARA TERMINAL 
 
-<h2 dir="auto"></h2>
-
 clonar repositório:
   git clone endereço-github
 
