@@ -17,6 +17,13 @@ Organizar e centralizar o material teórico para estudo e consulta rápida, incl
 
 ---
 
-## Estrutura do Repositório
+## Como usar
 
+1. Navegue pelas pastas para acessar o material de cada disciplina.  
+2. Consulte os resumos e slides para revisão rápida.  
+3. Utilize os exemplos e estudos de caso para entender aplicações reais de Sistemas de Informação.
+
+---
+
+> Este repositório serve como **apoio teórico** para estudantes de Sistemas de Informação e interessados em conhecer os diferentes tipos e usos de SI.
 
