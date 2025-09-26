@@ -12,8 +12,7 @@ Organizar e centralizar o material teórico para estudo e consulta rápida, incl
 
 - Tipos de Sistemas de Informação (TPS, MIS, DSS, ESS, etc.)
 - Aplicações práticas de SI em organizações
-- Modelos e frameworks de análise de sistemas
-- Conceitos de integração e suporte à decisão
+
 
 ---
 
