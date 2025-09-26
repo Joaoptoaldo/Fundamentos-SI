@@ -8,7 +8,7 @@ Este repositório é destinado a **dispor os conteúdos das disciplinas teórica
 
 ## Objetivo
 
-Organizar e centralizar o material teórico para estudo e consulta rápida, incluindo:
+Organizar e centralizar o material teórico para estudo e consulta, como:
 
 - Tipos de Sistemas de Informação (TPS, MIS, DSS, ESS, etc.)
 - Aplicações práticas de SI em organizações
